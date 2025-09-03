@@ -8,8 +8,16 @@
 
 
 ### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/👉https://www.linkedin.com/in/disha-lodhi-b962b932a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzMC1Za3PSKKY2ETpj0W1TA%3D%3D)
+### 🔗 Connect with me:
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/👉)  
+<a href="https://www.linkedin.com/in/👉https://www.linkedin.com/in/disha-lodhi-b962b932a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BREwCyn3uS6SFaG5Md9qMvw%3D%3D" target="_blank">
+  <img align="center" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/👉your-instagram-username)
+<a href="https://instagram.com/👉euphoria_dn" target="_blank">
+  <img align="center" alt="Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+</a>
+
+<a href="https://github.com/👉disha-creator" target="_blank">
+  <img align="center" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</a>
