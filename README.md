@@ -8,7 +8,6 @@
 
 
 ### 🔗 Connect with me:
-### 🔗 Connect with me:
 
 <a href="https://www.linkedin.com/in/👉https://www.linkedin.com/in/disha-lodhi-b962b932a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BREwCyn3uS6SFaG5Md9qMvw%3D%3D" target="_blank">
   <img align="center" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
