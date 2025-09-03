@@ -8,5 +8,8 @@
 
 
 ### 🔗 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/disha-lodhi-b962b932a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bjq7MkmW9QRW0BftdPSfS1A%3D%3D)  
-[![GitHub](disha-creator)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/👉https://www.linkedin.com/in/disha-lodhi-b962b932a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzMC1Za3PSKKY2ETpj0W1TA%3D%3D)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/👉)  
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/👉your-instagram-username)
