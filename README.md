@@ -14,9 +14,13 @@
   <img align="center" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
+
+
 <a href="https://instagram.com/👉euphoria_dn" target="_blank">
   <img align="center" alt="Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
+
+
 
 <a href="https://github.com/👉disha-creator" target="_blank">
   <img align="center" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
