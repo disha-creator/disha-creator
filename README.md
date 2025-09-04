@@ -7,20 +7,8 @@
 ⚡ Fun fact: I love exploring "what if" ideas and turning them into projects.  
 
 
-### 🔗 Connect with me:
-
-<a href="https://www.linkedin.com/in/👉https://www.linkedin.com/in/disha-lodhi-b962b932a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BREwCyn3uS6SFaG5Md9qMvw%3D%3D" target="_blank">
-  <img align="center" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-
-
-
-<a href="https://instagram.com/👉euphoria_dn" target="_blank">
-  <img align="center" alt="Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
-</a>
-
-
-
-<a href="https://github.com/👉disha-creator" target="_blank">
-  <img align="center" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/disha-lodhi-b962b932a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi-gupta-8b6308247" height="30" width="40" /></a>
+<a href="https://instagram.com/__euphoria__n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.khushi.19" height="30" width="40" /></a>
+</p>
