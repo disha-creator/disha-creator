@@ -1,6 +1,6 @@
  
 <h1 align="center">Hi 👋, I'm disha lodhi</h1>
-<h3 align="center">🎓 B.Tech CSE (AI) | Full Stack & AI Developer | Automation Enthusiast</h3>
+<h3 align="center">🎓 B.Tech CSE (AI) | Data Analyst | Website Developer | Software Engineer | Full Stack & AI Developer(in future) | Automation Enthusiast</h3>
 
 💡 Passionate about building smart applications with AI and automation.  
 🌱 Currently learning: Deep Learning, Generative AI, and Cloud Deployment.  
